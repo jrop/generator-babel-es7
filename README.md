@@ -1,6 +1,8 @@
 generator-babel-es7
 ===================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jrop/generator-babel-es7.svg)](https://greenkeeper.io/)
+
 A bare Babel project generator for Yeoman.
 
 ## Use
